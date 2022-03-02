@@ -1,1 +1,1 @@
-![Blog Wireframe](/images/)
+![Blog Wireframe](/images/blogwireframe.png)
