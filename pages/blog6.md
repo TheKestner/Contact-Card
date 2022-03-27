@@ -1,6 +1,6 @@
 # The Kestner Blog:
 
-## Week 2  
+## Week 6 
 
 * **What did you learn about that helped you understand the development process?**
  The introduction of API's and the use of data within an website/app that we created helped me understand that you have a lot of different working parts to an overall whole product. 
