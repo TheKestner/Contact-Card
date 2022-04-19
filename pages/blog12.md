@@ -12,4 +12,4 @@ I believe that I may struggle more with the Front-End after getting to experienc
 
 
 * **What companies or people (local or not) would you like to hear talk during a Bootcamp lunch and learn?**
-It be nice to hear from some companies that primarily focus on the back-end as well for jobs. Anything that may be Database focused but one I can think of locally is bitwerx. 
+It would be nice to hear from some companies that primarily focus on the back-end as well for jobs. Anything that may be Database focused, but one I can think of locally is bitwerx. 
